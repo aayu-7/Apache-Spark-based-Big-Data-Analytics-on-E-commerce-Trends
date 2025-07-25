@@ -78,8 +78,8 @@ streamlit run app.py
 Developed as a Final Year Project by **Ayushika Singh** (B.Tech, CSE - Data Science), NIET.
 
 ## 📬 Let's Connect
-- [LinkedIn]((https://www.linkedin.com/in/ayushika-singh-13399923b/))
-- [GitHub]((https://github.com/aayu-7))
+- [LinkedIn](https://www.linkedin.com/in/ayushika-singh-13399923b/)
+- [GitHub](https://github.com/aayu-7)
 
 ---
 **#ApacheSpark #DataAnalytics #BigData #Streamlit #GeminiAI #PythonProjects #FinalYearProject**
